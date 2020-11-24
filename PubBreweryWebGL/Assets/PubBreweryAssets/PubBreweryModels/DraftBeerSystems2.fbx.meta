@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: bca8968690c42bf4485db1e4aef6377d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BeerLiquid
+    100002: BeerLiquid.001
+    100004: BeerLiquid.002
+    100006: BezierCurve.006
+    100008: BezierCurve.007
+    100010: BezierCurve.008
+    100012: BezierCurve.009
+    100014: BezierCurve.010
+    100016: BezierCurve.011
+    100018: ClearPlastic
+    100020: ClearPlastic.001
+    100022: Cube.008
+    100024: Cylinder.020
+    100026: Cylinder.039
+    100028: Cylinder.074
+    100030: //RootNode
+    100032: FOBdetector
+    100034: FOBdetector.001
+    100036: FOBdetector.002
+    100038: FOBdetector.003
+    100040: MotorLR
+    100042: Regulator1
+    100044: Regulator2
+    100046: Regulator2.001
+    400000: BeerLiquid
+    400002: BeerLiquid.001
+    400004: BeerLiquid.002
+    400006: BezierCurve.006
+    400008: BezierCurve.007
+    400010: BezierCurve.008
+    400012: BezierCurve.009
+    400014: BezierCurve.010
+    400016: BezierCurve.011
+    400018: ClearPlastic
+    400020: ClearPlastic.001
+    400022: Cube.008
+    400024: Cylinder.020
+    400026: Cylinder.039
+    400028: Cylinder.074
+    400030: //RootNode
+    400032: FOBdetector
+    400034: FOBdetector.001
+    400036: FOBdetector.002
+    400038: FOBdetector.003
+    400040: MotorLR
+    400042: Regulator1
+    400044: Regulator2
+    400046: Regulator2.001
+    2100000: DraftBeerSystems
+    2100002: ClearPlastic
+    2100004: GlycolPP
+    2100006: Tubes
+    2300000: BeerLiquid
+    2300002: BeerLiquid.001
+    2300004: BeerLiquid.002
+    2300006: BezierCurve.006
+    2300008: BezierCurve.007
+    2300010: BezierCurve.008
+    2300012: BezierCurve.009
+    2300014: BezierCurve.010
+    2300016: BezierCurve.011
+    2300018: ClearPlastic
+    2300020: ClearPlastic.001
+    2300022: Cube.008
+    2300024: Cylinder.020
+    2300026: Cylinder.039
+    2300028: Cylinder.074
+    2300030: FOBdetector
+    2300032: FOBdetector.001
+    2300034: FOBdetector.002
+    2300036: FOBdetector.003
+    2300038: MotorLR
+    2300040: Regulator1
+    2300042: Regulator2
+    2300044: Regulator2.001
+    3300000: BeerLiquid
+    3300002: BeerLiquid.001
+    3300004: BeerLiquid.002
+    3300006: BezierCurve.006
+    3300008: BezierCurve.007
+    3300010: BezierCurve.008
+    3300012: BezierCurve.009
+    3300014: BezierCurve.010
+    3300016: BezierCurve.011
+    3300018: ClearPlastic
+    3300020: ClearPlastic.001
+    3300022: Cube.008
+    3300024: Cylinder.020
+    3300026: Cylinder.039
+    3300028: Cylinder.074
+    3300030: FOBdetector
+    3300032: FOBdetector.001
+    3300034: FOBdetector.002
+    3300036: FOBdetector.003
+    3300038: MotorLR
+    3300040: Regulator1
+    3300042: Regulator2
+    3300044: Regulator2.001
+    4300000: Regulator1
+    4300002: Regulator2
+    4300004: Regulator2.001
+    4300006: FOBdetector
+    4300008: BeerLiquid
+    4300010: ClearPlastic.001
+    4300012: FOBdetector.001
+    4300014: BeerLiquid.001
+    4300016: ClearPlastic
+    4300018: FOBdetector.002
+    4300020: BeerLiquid.002
+    4300022: FOBdetector.003
+    4300024: Cylinder.020
+    4300026: Cylinder.039
+    4300028: Cylinder.074
+    4300030: MotorLR
+    4300032: Cube.008
+    4300034: BezierCurve.006
+    4300036: BezierCurve.007
+    4300038: BezierCurve.008
+    4300040: BezierCurve.009
+    4300042: BezierCurve.010
+    4300044: BezierCurve.011
+    7400000: DraftFOB1moving
+    7400002: DraftFOB2moving
+    7400004: DraftFOB3moving
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ClearPlastic
+    second: {fileID: 2100000, guid: 2b3e4c52bbfb37d44af06ecc7cff0bb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DraftBeerSystems
+    second: {fileID: 2100000, guid: 643e98550530eb44bbc53c17e7eae48f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GlycolPP
+    second: {fileID: 2100000, guid: 36f31328d3c86344f8a10db99561ec7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tubes
+    second: {fileID: 2100000, guid: ecc2cbdc4355c0a49951b170b1f5468b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: DraftFOB1moving
+      takeName: FOB1moving
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: DraftFOB2moving
+      takeName: FOB2moving
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: DraftFOB3moving
+      takeName: FOB3moving
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
